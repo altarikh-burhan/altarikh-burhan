@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @altarikh-burhan
-- 👀 I’m interested in Backend Programming
-- 🌱 I’m currently learning laravel 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Web Developer
+
 
 <!---
 altarikh-burhan/altarikh-burhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
